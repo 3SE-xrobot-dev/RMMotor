@@ -2,7 +2,8 @@
 
 3SE fork of [QDU-Robomaster/RMMotor](https://github.com/QDU-Robomaster/RMMotor)
 at `a7c2b4d9495d92883242c895a327b399e0c4b130` (Apache-2.0). Upstream
-CLI examples below use the QDU namespace; this copy is currently local.
+CLI examples below retain the QDU namespace; this repository is published at
+https://github.com/3SE-xrobot-dev/RMMotor.
 
 RoboMaster 电机驱动模块（M2006 / M3508 / GM6020）：CAN 收发、反馈解码与 Motor 接口 / RoboMaster motor driver Module (M2006 / M3508 / GM6020) with CAN transfer, feedback decoding and the Motor interface
 
